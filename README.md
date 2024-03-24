@@ -11,7 +11,7 @@ git clone https://github.com/ThibaultBarral/api-with-mongodb.git
 
 2. **Installer les dépendances :**
 ```bash
-cd with-mongodb-app
+cd api-with-mongodb
 npm install
 ```
 
