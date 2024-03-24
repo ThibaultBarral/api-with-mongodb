@@ -6,7 +6,7 @@ Ce projet vise à créer une application de gestion de films permettant aux util
 
 1. **Cloner le projet :**
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git 
+git clone https://github.com/ThibaultBarral/api-with-mongodb.git
 ```
 
 2. **Installer les dépendances :**
